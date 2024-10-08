@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yuganshbanka
 - 👀 I’m interested in ... learning new language and new projects
-- 🌱 I’m currently learning ... data analysis and alogrithm
+- 🌱 I’m currently learning ... data analysis and alogrithm and python
 - 💞️ I’m looking to collaborate on ... projects
 - 📫 How to reach me ... yugbanka23@gmail.com
 - 😄 Pronouns: ...
